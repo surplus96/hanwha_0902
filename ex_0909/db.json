@@ -1,0 +1,28 @@
+{
+    "users": {
+        "1": {
+            "name": "Choi",
+            "age": 29.0,
+            "gender": "male"
+        },
+        "2": {
+            "name": "홍길동",
+            "age": 19.0,
+            "gender": "male"
+        }
+    },
+    "items": {
+        "1": {
+            "name": "사과",
+            "description": "빨간색",
+            "price": 25000.0,
+            "tax": 200.0
+        },
+        "2": {
+            "name": "바나나",
+            "description": "노란색",
+            "price": 30000.0,
+            "tax": 250.0
+        }
+    }
+}
