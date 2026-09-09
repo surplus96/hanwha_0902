@@ -21,13 +21,7 @@
 
 ---
 
-### 2. FastAPI HTTP 메서드(GET, POST, PUT) 구조 및 특징
-
-요청하신 표에 **`DELETE`** 메서드의 역할과 특징을 포함하여 업데이트한 테이블입니다.
-
----
-
-### FastAPI HTTP 메서드(GET, POST, PUT, DELETE) 구조 및 특징
+### 2. FastAPI HTTP 메서드(GET, POST, PUT, DELETE) 구조 및 특징
 
 | 메서드 | 역할 | Request Body | 주요 특징 및 주의사항 |
 | --- | --- | --- | --- |
