@@ -13,7 +13,7 @@
 * **효과:** Request Body 데이터의 타입을 자동으로 검증 및 변환하며, 규칙 미준수 시 `422 Unprocessable Entity` 에러를 자동 반환하여 안정성 확보.
 
 
-**`typing.Annotated`**
+**typing.Annotated**
 * **정의:** Python 3.9+ 타입 시스템에서 원본 타입에 부가적인 메타데이터(제약 조건, 문서 설명 등)를 결합하는 기능.
 * **효과:** 타입 정의와 유효성 검증 규칙(`Path`, `Query`, `Body`, `Depends`)을 명확히 분리하여 가독성을 높이고, 타입 별칭(Type Alias)을 통해 공통 파라미터 검증 로직 재사용 가능.
 
